@@ -1,4 +1,4 @@
-# AI4E Mar 2020
+# AI4E July 2020
 
 ## Instructions
 + Download pdf (presentation deck and activity sheets)
@@ -20,7 +20,3 @@
 
 + Dialogflow https://dialogflow.com/
 + Clarifai https://www.clarifai.com/
-
-## Quizes
-+ Link to interactive quizes http://bit.ly/2Y8MTi2  
-<img src="quiz_qr.png" alt="quiz qr code" width="40%"/>
