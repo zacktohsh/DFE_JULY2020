@@ -1,7 +1,7 @@
 # DFE July 2020
 
 ## Instructions
-+ Download pdf (presentation deck and activity sheets)
++ Download pdf (presentation deck)
 
 ## Resources
 + QuickDraw https://quickdraw.withgoogle.com/
